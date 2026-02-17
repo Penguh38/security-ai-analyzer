@@ -139,4 +139,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-Built with ❤️ and AI
+Built with ❤️ by Pengu
